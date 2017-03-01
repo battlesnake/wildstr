@@ -1,6 +1,8 @@
 #pragma once
 #include <stdbool.h>
 
+/* MOSTLY DEPRECATED IN FAVOUR OF FIXEDSTR */
+
 /* String comparison where one string may be NULL to specify wildcard */
 
 /* String is NULL or empty */
